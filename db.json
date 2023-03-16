@@ -22,11 +22,11 @@
       "bed": "Double",
       "adults": "2",
       "capacity": "2",
-      "cost": "3000",
+      "cost": "4000",
       "id": 1
     },
     {
-      "category": "Family",
+      "category": "Suite",
       "image": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "ac": "ac",
       "nonac": "ac",
@@ -37,14 +37,14 @@
       "id": 1
     },
     {
-      "category": "Family",
+      "category": "Deluxe",
       "image": "https://www.acaciahotelsmanila.com/wp-content/uploads/2020/09/room-deluxe_70df34c103b85ce7b2b5ff918ab8cf72.jpg",
       "ac": "ac",
       "nonac": "ac",
       "bed": "Double",
       "adults": "2",
       "capacity": "2",
-      "cost": "3000",
+      "cost": "2000",
       "id": 1
     }
   ]
